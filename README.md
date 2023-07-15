@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sahil Kamath</h1>
+<h1 align="center">Hey 👋, I'm Sahil</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
