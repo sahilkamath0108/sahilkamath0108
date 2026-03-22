@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilkamath0108&label=Profile%20views&color=0e75b6&style=flat" alt="sahilkamath0108" /> </p>
 
-- 🔭 I’m currently working on [Med-o-care](https://github.com/sahilkamath0108/Med-O-Care)
+- 🔭 I’m currently working on Agentic AI projects!
 
 - 🌱 I’m currently learning **NLP, Solidity, Web3**
 
