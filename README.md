@@ -1,22 +1,43 @@
 <h1 align="center">Hey 👋, I'm Sahil</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">AI Engineer building agentic systems & LLM-powered applications</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilkamath0108&label=Profile%20views&color=0e75b6&style=flat" alt="sahilkamath0108" /> </p>
 
-- 🔭 I’m currently working on Agentic AI projects!
+---
 
-- 🌱 I’m currently learning **NLP, Solidity, Web3**
+### 🚀 What I’m working on
+- Building **agentic AI systems** with LLM orchestration (LangGraph, tool-calling)
+- Designing **RAG pipelines** and memory-augmented LLMs
+- Developing **AI systems that execute real-world workflows**
 
-- 👯 I’m looking to collaborate on **Web Dev, Blockchain Projects**
+### 🧠 Core Interests
+- Agentic AI & multi-step reasoning systems  
+- LLM orchestration & evaluation  
+- Retrieval systems (embeddings, ranking, vector DBs)  
+- Scalable AI infrastructure  
 
-- 💬 Ask me about **Node.js, Web3, Blockchain**
+### 🛠️ Tech Stack
+- **Languages:** Python, JavaScript  
+- **AI/ML:** LLMs, RAG, LangGraph, LangChain, Vector DBs  
+- **Backend:** Node.js, Express, FastAPI, SQL  
+- **Tools:** Git, Postman, Docker  
 
-- 📫 How to reach me **sahilkamath0108@gmail.com**
+### 📌 Notable Work
+- Built a **memory-augmented LLM system** with continuous learning from conversations  
+- Developed a **WhatsApp-based agentic assistant** for scheduling using tool-calling + SQL  
+- Designed **retrieval and ranking pipelines** for intelligent query handling  
 
-- ⚡ Fun fact **I used to be a night owl, now I'm the exact opposite. Trust me, it's just as effective.**
+📫 Reach me at: **sahilkamath0108@gmail.com**
 
+---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilkamath0108&show_icons=true&locale=en&layout=compact" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilkamath0108&show_icons=true&locale=en" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilkamath0108&" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/sahilkamath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sahilkamath" height="30" width="40" /></a>
